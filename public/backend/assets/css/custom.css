@@ -1,0 +1,35 @@
+.cate-image{
+    width: 100px;
+}
+.cate-image-view{
+    width: 400px;
+    margin-bottom: 25px;
+}
+.imgedit{
+    width: 250px;
+    margin-left: 15px;
+}
+
+.imgedit{
+    margin-bottom: 15px;
+}
+
+.pagination->links{
+    display: flex;
+}
+
+.unseen{
+    background: #4aa4d9;
+    color: #fff;
+}
+
+#pagi{
+    color: #fff;
+}
+
+.email tbody tr td span img{width:auto;height:32px;border-radius:none}
+.email thead tr th:nth-child(2),.email thead tr td:nth-child(2),.email tbody tr th:nth-child(2),.email tbody tr td:nth-child(2){min-width:200px}.email thead tr th:nth-child(3),.email thead tr td:nth-child(3),.email tbody tr th:nth-child(3),.email tbody tr td:nth-child(3){min-width:200px}.email thead tr th,.email tbody tr th{font-size:calc(15px + (18 - 15) * ((100vw - 320px) / (1920 - 320)))}
+
+.email th:nth-child(n+5),.email td:nth-child(n+5){text-align:center}
+
+.email thead tr{background-color:#4aa4d9}
